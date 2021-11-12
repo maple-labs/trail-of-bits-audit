@@ -1,5 +1,5 @@
 # Trail of Bits Audit
-This repository is dedicated to hosting GitHub issues posted by the Trail of Bits audit team during the Maple LoanV2 audit, taking place in March 2021. Throughout the course of the audit, as the Trail of Bits team discovers issues, has suggestions, or has questions, they are encouraged to post to the GitHub issues in this repository. This will allow for a high degree of visibility and transparency between the two teams, as well as an increased capability to work asyncronously.
+This repository is dedicated to hosting GitHub issues posted by the Trail of Bits audit team during the Maple LoanV2 audit, taking place in November 2021. Throughout the course of the audit, as the Trail of Bits team discovers issues, has suggestions, or has questions, they are encouraged to post to the GitHub issues in this repository. This will allow for a high degree of visibility and transparency between the two teams, as well as an increased capability to work asyncronously.
 
 Below is a list of all labels that are available for use for issues (can also be found [here](https://github.com/maple-labs/trail-of-bits-audit/labels)). 
 
