@@ -3,7 +3,7 @@ This repository is dedicated to hosting GitHub issues posted by the Trail of Bit
 
 Below is a list of all labels that are available for use for issues (can also be found [here](https://github.com/maple-labs/trail-of-bits-audit/labels)). 
 
-![Screen Shot 2021-11-14 at 4 58 14 PM](https://user-images.githubusercontent.com/44272939/141700222-e69ead8b-e618-485c-87e2-fdd6521d4256.png)
+![Screen Shot 2021-11-14 at 4 59 34 PM](https://user-images.githubusercontent.com/44272939/141700272-e7b0a614-6fb7-4afb-863c-183fa093ff7b.png)
 
 For every issue that is posted to this repository, the Maple team asks that three labels are used:
 * `Type`: Bug, Optimization, Question, Suggestion
